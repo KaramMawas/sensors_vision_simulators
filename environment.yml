@@ -1,0 +1,11 @@
+name: sensor_sim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pygame==2.6.1
+  - matplotlib==3.10.8
+  - scipy==1.17.1
+  - pip
+  - numpy==2.4.4
+  
