@@ -1,0 +1,33 @@
+title: Sensor Vision Simulators
+description: Educational and engineering simulators for sensor modeling, LiDAR, depth cameras, photogrammetry, structured light scanning, and terrestrial laser scanning
+theme: minima
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .github
+  - .vscode
+  - .git
+  - .idea
+  - .DS_Store
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-paginate
+  
