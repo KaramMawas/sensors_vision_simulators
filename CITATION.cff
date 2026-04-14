@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Sensor Vision Simulators"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Mawas
+    given-names: Karam
+    orcid: "https://orcid.org/0000-0002-8608-7578"
+repository-code: "https://github.com/KaramMawas/sensors_vision_simulators"
+abstract: "A modular educational and engineering toolkit for camera modeling, depth cameras, LiDAR simulation, photogrammetry, structured light scanning, terrestrial laser scanning, and spatial geometry processing."
+license: MIT
+version: 1.0.0
+date-released: 2026-04-14
