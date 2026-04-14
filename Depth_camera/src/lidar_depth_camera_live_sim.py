@@ -8,8 +8,8 @@ Author: Karam Mawas
 Affiliation: Technical University of Braunschweig / Institute of Geodesy and Photogrammetry (IGP)
 Email: karam.mawas@gmail.com
 GitHub: https://github.com/KaramMawas
-Website: https://yourwebsite.com
-ORCID: https://orcid.org/0000-0000-0000-0000
+Website: https://karammawas.github.io/
+ORCID: https://orcid.org/0000-0002-8608-7578
 
 Created: 2026-04-14
 Last Updated: 2026-04-14
