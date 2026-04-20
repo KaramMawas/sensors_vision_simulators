@@ -1,4 +1,8 @@
-# Depth Camera Simulator
+---
+layout: default
+title: Depth Camera Simulator
+nav_order: 2
+---
 
 > A live LiDAR-based depth camera simulator for illustrating hardware architecture, time-of-flight ranging, progressive scanning, image reconstruction, and 3D point cloud formation.
 
@@ -6,7 +10,7 @@
 
 ---
 
-## What this simulator does
+## Overview
 
 This simulator demonstrates how a **LiDAR-based depth camera** measures distance by emitting laser pulses, receiving reflected signals, and computing depth from **time-of-flight**.
 

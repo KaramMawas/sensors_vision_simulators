@@ -1,4 +1,6 @@
-# Sensor Vision Simulators
+---
+title: Sensor Vision Simulators
+---
 
 Welcome to the project website for the **3D Vision Simulators** repository.
 

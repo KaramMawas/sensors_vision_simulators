@@ -1,4 +1,6 @@
-# Modules
+---
+title: Modules
+---
 
 ## Camera Parameters
 Exposure photography parameters.
