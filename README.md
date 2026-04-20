@@ -68,23 +68,23 @@ The project is intended for:
 git clone https://github.com/yourusername/sensors_vision_simulators.git
 cd sensors_vision_simulators
 ```
+
+### Create a new environment using the following command:
+```bash
+$ conda create -n sensor_sim python=3.11
+```
+### Activate the environment:
+```bash
+$ conda activate sensor_sim
+```
+
 ### Install the required packages
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-### Run an example
-
-#### Create a new environment using the following command:
-```bash
-$ conda create -n sensor_sim python=3.11
-```
-#### Activate the environment:
-```bash
-$ conda activate sensor_sim
-```
-#### Run file:
+#### Run an example file:
 ```bash
 python Depth_camera/src/lidar_depth_camera_live_sim.py
 ```
@@ -92,9 +92,9 @@ python Depth_camera/src/lidar_depth_camera_live_sim.py
 ## Documentation
 
 ### Example Visualizations
-![LiDAR Scan Demo](docs/assets/gifs/live_lidar_scan.gif)
-![Depth Map Example](docs/assets/images/depth_map_example.png)
-![Point Cloud Example](docs/assets/images/point_cloud_example.png)
+![LiDAR Scan Demo](docs/assets/gifs/depth_camera/Live_scan_depth_cam.gif)
+![Depth Map Example](docs/assets/gifs/depth_camera/Progressive_image_reconstruction.gif)
+![Point Cloud Example](docs/assets/gifs/depth_camera/Point_cloud_formation.gif)
 
 ## Author
 Karam Mawas
