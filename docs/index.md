@@ -10,7 +10,7 @@ Welcome to the project website for the **3D Vision Simulators** repository.
 - [Depth Camera]({{ '/depth-camera-simulator/' | relative_url }})
 - KD-Tree
 - Photogrammetry
-- [Structured Light Scanning]({{ '/structured-light-scanning/' | relative_url }})
+- [Structured Light Scanning]({{ '/structured-light-scanning-simulator/' | relative_url }})
 - Terrestrial Laser Scanning
 
 ## Purpose
