@@ -12,32 +12,24 @@ nav_order: 2
 ![Status](https://img.shields.io/badge/Status-Simulation-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-A visual and interactive simulator for a **Structured Light Scanner (SLS)** sensor.  
-This project demonstrates how a **projector-camera system** uses projected stripe patterns to observe surface deformation and estimate 3D structure.
+> A visual and interactive simulator for a **Structured Light Scanner (SLS)** sensor. This project demonstrates how a **projector-camera system** uses projected stripe patterns to observe surface deformation and estimate 3D structure.
 
 ---
 
 ## Preview
 
-Add a screenshot of the simulator here:
+[Structured Light Scanner Preview](./assets/images/SLS/SLS_Preview.png)
 
-
-[Structured Light Scanner Preview](../docs/assets/images/SLS/SLS_Preview.png)
-
-![Structured Light Scanner Preview](../docs/assets/images/SLS/SLS_Preview.png)
+![Structured Light Scanner Preview](./assets/images/SLS/SLS_Preview.png)
 
 ---
 
 ## Demo GIF
 
-Add an animated GIF of the simulator here:
+[Structured Light Scanner Demo](./assets/gifs/SLS/Preview_SLS.gif)
 
 
-[Structured Light Scanner Demo](../docs/assets/gifs/SLS/Preview_SLS.gif)
-
-Example:
-
-![Structured Light Scanner Demo](../docs/assets/gifs/SLS/Preview_SLS.gif)
+![Structured Light Scanner Demo](./assets/gifs/SLS/Preview_SLS.gif)
 
 ---
 
