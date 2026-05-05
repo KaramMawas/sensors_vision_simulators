@@ -20,11 +20,3 @@ This module contains simulators for depth cameras and LiDAR-based time-of-flight
 ```bash
 python src/lidar_depth_camera_live_sim.py
 ```
-
-## Structure
-
-- `src/` - source code
-- `notebooks/` - notebooks and demos
-- `figures/` - images and plots
-- `videos/` - GIFs or videos
-- `data/` - example datasets
