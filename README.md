@@ -105,7 +105,7 @@ Website: [Karam Mawas](https://karammawas.github.io/)
 ORCID: [ORCID_KaramMawas](https://orcid.org/0000-0002-8608-7578)
 
 ## Citation
-If you use this repository in research or teaching, please cite it using the metadata in CITATION.cff
+If you use this repository in research or teaching, please cite it using the metadata in [CITATION.cff](./CITATION.cff)
 
 ## License
-This project is licensed under the terms of the LICENSE file.
+This project is licensed under the terms of the [LICENSE](./LICENSE) file.
