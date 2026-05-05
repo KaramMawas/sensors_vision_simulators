@@ -1,3 +1,9 @@
+---
+layout: default
+title: SLS Simulator
+nav_order: 2
+---
+
 # Structured Light Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
