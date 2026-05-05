@@ -2,6 +2,7 @@
 layout: default
 title: Depth Camera Simulator
 nav_order: 2
+permalink: /depth-camera-simulator/
 ---
 
 > A live LiDAR-based depth camera simulator for illustrating hardware architecture, time-of-flight ranging, progressive scanning, image reconstruction, and 3D point cloud formation.

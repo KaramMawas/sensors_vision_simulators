@@ -2,6 +2,7 @@
 layout: default
 title: SLS Simulator
 nav_order: 2
+permalink: /structured-light-scanning-simulator/
 ---
 
 # Structured Light Scanner
