@@ -1,6 +1,12 @@
 title: Sensor Vision Simulators
 description: Educational and engineering simulators for sensor modeling, LiDAR, depth cameras, photogrammetry, structured light scanning, and terrestrial laser scanning
 theme: minima
+
+header_pages:
+  - depth_camera.md
+  - SLS_sim.md
+  - modules.md
+
 exclude:
   - README.md
   - LICENSE
