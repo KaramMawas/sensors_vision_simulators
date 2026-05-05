@@ -82,9 +82,7 @@ Software processing pipleline from photon return to 3D geometry:
 
 The depth is estimated from the measured round-trip travel time of light:
 
-\[
-d = \frac{c\,t}{2}
-\]
+The distance is computed as `d = (c . t) / 2`.
 
 where:
 
@@ -140,8 +138,8 @@ They are related, but they are expressed in different units:
 
 For example:
 
-- \(4\,\mathrm{m}\) corresponds to about \(26.7\,\mathrm{ns}\)
-- \(14\,\mathrm{m}\) corresponds to about \(93.4\,\mathrm{ns}\)
+- 4 m corresponds to approximately 26.7 ns
+- 14 m corresponds to approximately 93.4 ns
 
 So if the depth map ranges from about \(4\) to \(14\) and the TOF map ranges from about \(25\) to \(100\), that is physically correct.
 
@@ -167,5 +165,4 @@ much easier to understand.
 
 This module currently contains one main simulator file:
 
-```text
-Depth_camera/src/lidar_depth_camera_live_sim.py
+[`lidar_depth_camera_live_sim.py`](Depth_camera/src/lidar_depth_camera_live_sim.py)
