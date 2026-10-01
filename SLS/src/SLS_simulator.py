@@ -2,7 +2,7 @@
 ===============================================================================
 Project: Sensor Vision Simulators
 Module: Structured Light Scanner (SLS) Simulator 
-File: lidar_depth_camera_live_sim.py
+File: SLS_simulator.py
 
 Author: Karam Mawas
 Affiliation: Technical University of Braunschweig / Institute of Geodesy and Photogrammetry (IGP)
