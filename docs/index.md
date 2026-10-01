@@ -9,7 +9,7 @@ Welcome to the project website for the **3D Vision Simulators** repository.
 - Camera Parameters
 - [Depth Camera]({{ '/depth-camera-simulator/' | relative_url }})
 - KD-Tree
-- Photogrammetry
+- [Photogrammetry]({{ '/photogrammetry/' | relative_url }})
 - [Structured Light Scanning]({{ '/structured-light-scanning-simulator/' | relative_url }})
 - Terrestrial Laser Scanning
 
