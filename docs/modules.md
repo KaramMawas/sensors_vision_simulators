@@ -21,7 +21,18 @@ Interactive photography simulation for:
 - image histogram analysis
 
 ## Depth Camera
-LiDAR and time-of-flight depth simulation.
+
+[LiDAR Depth Camera Simulator]({{ '/depth-camera-simulator/' | relative_url }})
+
+Interactive pulsed time-of-flight LiDAR simulation for:
+
+- ray-based scene scanning
+- depth maps
+- time-of-flight maps
+- return-intensity maps
+- depth noise and timing jitter
+- live point-cloud formation
+- LiDAR hardware and processing-pipeline concepts
 
 ## KD-Tree
 Spatial indexing and nearest-neighbor search utilities.
@@ -44,7 +55,18 @@ Interactive demonstrations of camera projection, optical image formation, lens d
 [Explore the Photogrammetry module]({{ '/photogrammetry/' | relative_url }})
 
 ## Structured Light Scanning
-Pattern projection and capturing simulation.
+
+[Structured Light Scanner Simulator]({{ '/structured-light-scanning-simulator/' | relative_url }})
+
+Interactive structured-light visualization for:
+
+- projector-camera baseline geometry
+- sinusoidal stripe projection
+- stripe frequency and rotation
+- surface-induced phase deformation
+- synthetic camera-capture patterns
+- ground-truth depth visualization
+- strobe illumination mode
 
 ## Terrestrial Laser Scanning
 ToF and Phase-shift simulators.
