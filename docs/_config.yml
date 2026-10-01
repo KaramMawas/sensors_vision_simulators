@@ -3,6 +3,7 @@ description: Educational and engineering simulators for sensor modeling, LiDAR, 
 theme: minima
 
 header_pages:
+  - camera_parameters.md
   - depth_camera.md
   - SLS_sim.md
   - photogrammetry.md

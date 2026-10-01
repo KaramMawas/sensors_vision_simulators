@@ -6,7 +6,7 @@ Welcome to the project website for the **3D Vision Simulators** repository.
 
 ## Modules
 
-- Camera Parameters
+- [Camera Parameters]({{ '/camera-parameters/' | relative_url }})
 - [Depth Camera]({{ '/depth-camera-simulator/' | relative_url }})
 - KD-Tree
 - [Photogrammetry]({{ '/photogrammetry/' | relative_url }})

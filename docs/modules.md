@@ -3,7 +3,22 @@ title: Modules
 ---
 
 ## Camera Parameters
-Exposure photography parameters.
+
+[Photography Camera Parameters Simulator]({{ '/camera-parameters/' | relative_url }})
+
+Interactive photography simulation for:
+
+- aperture and f-number
+- shutter speed
+- ISO sensitivity
+- relative exposure
+- image noise and clipping
+- focus and visual defocus
+- focal length and circle of confusion
+- hyperfocal distance
+- depth of field
+- motion blur and panning
+- image histogram analysis
 
 ## Depth Camera
 LiDAR and time-of-flight depth simulation.
