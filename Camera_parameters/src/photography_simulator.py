@@ -1,3 +1,30 @@
+"""
+===============================================================================
+Project: Sensor Vision Simulators
+Module: Camera Parameters / Photography Simulator
+File: photography_simulator.py
+
+Author: Karam Mawas
+Affiliation: Technical University of Braunschweig / Institute of Geodesy and Photogrammetry (IGP)
+Email: karam.mawas@gmail.com
+GitHub: https://github.com/KaramMawas
+Website: https://karammawas.github.io/
+ORCID: https://orcid.org/0000-0002-8608-7578
+
+Created: 2026-04-14
+Last Updated: 2026-10-01
+
+Copyright (c) 2026 Karam Mawas
+License: MIT
+
+Description:
+An interactive photography simulator for illustrating aperture, shutter speed,
+ISO, relative exposure, image noise, visual focus, hyperfocal distance,
+depth of field, subject motion, rotational motion, panning, and histogram
+behavior using a synthetic star and checkerboard scene.
+===============================================================================
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider, CheckButtons, Button

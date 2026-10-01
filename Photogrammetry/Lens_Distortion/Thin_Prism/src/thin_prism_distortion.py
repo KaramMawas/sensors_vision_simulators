@@ -1,3 +1,30 @@
+"""
+===============================================================================
+Project: Sensor Vision Simulators
+Module: Photogrammetry - Thin-Prism Distortion
+File: thin_prism_distortion.py
+
+Author: Karam Mawas
+Affiliation: Technical University of Braunschweig / Institute of Geodesy and Photogrammetry (IGP)
+Email: karam.mawas@gmail.com
+GitHub: https://github.com/KaramMawas
+Website: https://karammawas.github.io/
+ORCID: https://orcid.org/0000-0002-8608-7578
+
+Created: 2026-04-14
+Last Updated: 2026-10-01
+
+Copyright (c) 2026 Karam Mawas
+License: MIT
+
+Description:
+An interactive simplified thin-prism distortion simulator illustrating
+radius-weighted horizontal and vertical coordinate displacement, asymmetric
+grid deformation, normalized image coordinates, and ideal-grid comparison.
+===============================================================================
+"""
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.widgets import Slider, CheckButtons

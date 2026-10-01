@@ -1,3 +1,30 @@
+"""
+===============================================================================
+Project: Sensor Vision Simulators
+Module: Photogrammetry - Thin Lens Simulator
+File: thin_lens_simulator.py
+
+Author: Karam Mawas
+Affiliation: Technical University of Braunschweig / Institute of Geodesy and Photogrammetry (IGP)
+Email: karam.mawas@gmail.com
+GitHub: https://github.com/KaramMawas
+Website: https://karammawas.github.io/
+ORCID: https://orcid.org/0000-0002-8608-7578
+
+Created: 2026-04-14
+Last Updated: 2026-10-01
+
+Copyright (c) 2026 Karam Mawas
+License: MIT
+
+Description:
+An interactive thin-lens camera simulator illustrating the thin-lens equation,
+object distance, focal length, image distance, principal rays, sensor
+placement, sharp focus, defocus, and an analytical autofocus operation.
+===============================================================================
+"""
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.widgets import Slider, Button
